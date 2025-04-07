@@ -103,7 +103,7 @@ button:hover {
   align-items: center;
 }
 
-/* 🌐 Media Queries for responsiveness */
+/*  Media Queries for responsiveness */
 @media (max-width: 500px) {
   .Output {
     flex-direction: column;
